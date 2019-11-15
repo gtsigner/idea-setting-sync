@@ -4,6 +4,7 @@
       <mapping pattern="*.js.flow" type="Flow" />
       <mapping pattern="*.js.flow" type="Flow" />
       <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
+      <mapping pattern="ahz批发" type="PLAIN_TEXT" />
       <mapping pattern="LICENSE" type="PLAIN_TEXT" />
       <mapping pattern=".envrc" type="PLAIN_TEXT" />
       <mapping pattern=",gitignore" type="PLAIN_TEXT" />
